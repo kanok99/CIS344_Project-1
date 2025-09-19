@@ -125,4 +125,4 @@ Synthesized Findings (sample)
 7.	Validate with queries/views.
 8.	Iterate based on gaps/feedback.
 
-<img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/9b77057b-f29d-4ba1-8183-7021d5cc5c68" />
+
