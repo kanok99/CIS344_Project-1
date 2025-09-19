@@ -1,7 +1,4 @@
 CIS344 Project 1 — Freelance Graphic Design Studio
-MD MOIN UDDIN SAGOR’S Freelance Graphic Design Studio
-Muhammadmoinuddin13@gmail.com
-
 
 This repo contains a MySQL database project for a freelance graphic design studio: clients, projects, services, tasks, time tracking, files, revisions, expenses, estimates, invoices, payments, and communications.
 
@@ -34,6 +31,7 @@ Run examples:
 ```sql
 SELECT * FROM v_client_balances ORDER BY balance_due DESC;
 SELECT * FROM v_project_profitability ORDER BY profit_estimate DESC;
+
 
 
 System Requirements & Process — Freelance Graphic Design Studio
@@ -126,5 +124,4 @@ Synthesized Findings (sample)
 6.	Load seed data for demos.
 7.	Validate with queries/views.
 8.	Iterate based on gaps/feedback.
-
 
